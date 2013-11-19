@@ -1,0 +1,13 @@
+input {
+    float: left;
+    clear: both;
+}
+
+.error {
+    border: 1px solid red;
+}
+
+.error-msg {
+    color: red;
+    display: block;
+}
